@@ -1,5 +1,4 @@
-hazlo en fomado arhvo readmi
-markdown
+
 # 📊 BusinessCore API
 
 ## 🚀 API Backend Empresarial en Clean Architecture
