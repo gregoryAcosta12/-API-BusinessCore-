@@ -1,11 +1,11 @@
 
 # 📊 BusinessCore API
 
-## 🚀 API Backend Empresarial en Clean Architecture
+## API Backend Empresarial en Clean Architecture
 
 ---
 
-## 📋 **Tabla de Contenidos**
+##  **Tabla de Contenidos**
 
 - [Descripción General](#descripción-general)
 - [Arquitectura](#arquitectura)
@@ -26,11 +26,11 @@
 
 ---
 
-## 📖 **Descripción General**
+##  **Descripción General**
 
 **BusinessCore API** es una API RESTful empresarial construida siguiendo los principios de **Clean Architecture** y **Domain-Driven Design (DDD)**. Proporciona un conjunto completo de endpoints para la gestión de productos, categorías, marcas, usuarios, órdenes, pagos, inventario y más.
 
-### 🎯 **Objetivo del API**
+###  **Objetivo del API**
 
 Proveer una plataforma escalable, mantenible y segura para la gestión empresarial, permitiendo:
 
@@ -45,7 +45,7 @@ Proveer una plataforma escalable, mantenible y segura para la gestión empresari
 
 ---
 
-## 🏗️ **Arquitectura**
+##  **Arquitectura**
 
 ### Clean Architecture
 
@@ -104,7 +104,7 @@ text
 
 ---
 
-## 🎨 **Patrones de Diseño Implementados**
+##  **Patrones de Diseño Implementados**
 
 | Patrón | Descripción | Ubicación |
 |--------|-------------|-----------|
