@@ -88,14 +88,14 @@ El proyecto está estructurado siguiendo los principios de **Clean Architecture*
 │ └─────────────┘ └─────────────┘ └───────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
 
-text
+
 
 ### Dependencias
 
 Las dependencias fluyen hacia adentro, siguiendo el **Principio de Inversión de Dependencias (DIP)**:
 API → Application → Domain ← Infrastructure
 
-text
+
 
 - **API** depende de **Application** y **Infrastructure**
 - **Application** depende de **Domain**
@@ -204,7 +204,7 @@ text
 <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
 <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
 📁 Estructura del Proyecto
-text
+
 BusinessCore.sln
 │
 ├── BusinessCore.Domain/                               [DOMAIN LAYER]
